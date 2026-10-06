@@ -378,5 +378,10 @@
     "fecha": "30/09/2026",
     "numero": 75,
     "driveId": "1XyO1oeXPSCQ6MKer2Su619MXcmNbfEtP"
+  },
+  {
+    "fecha": "05/10/2026",
+    "numero": "Subasta Cancelada",
+    "driveId": null
   }
 ]
